@@ -80,6 +80,13 @@ In Postman, you can set body in the section form-data, but it's better to write 
 }
 </code>
 
+___
 
 ![screenshot Postman](images/screenshot.jpg)
+
+___
+
+### Conclusion
+
+We just set an environment to use the daemon and the RPC. For more information, read the <a href="https://web.getmonero.org/resources/developer-guides/wallet-rpc.html#get_version" target="_blank">the official documentation</a> 
 
