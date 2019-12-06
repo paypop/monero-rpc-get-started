@@ -48,6 +48,7 @@ Don't forget: your wallet's password is important and your 25 words are very ver
 <blockquote cite="https://web.getmonero.org/resources/user-guides/vps_run_node.html">
 	monerod is the daemon software that ships with the Monero tree. It is a console program, and manages the blockchain. While a bitcoin wallet manages both an account and the blockchain, Monero separates these: monerod handles the blockchain, and monero-wallet-cli handles the account.
 </blockquote>
+<a href="https://web.getmonero.org/resources/user-guides/vps_run_node.html">Source</a>
 
 Go to the path:
 
